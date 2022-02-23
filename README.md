@@ -9,3 +9,8 @@
 ⚡ A curated list of Blockchain Papers
 </div>
 <br/>
+
+
+## Official
+
+- [Bitcoin](https://github.com/salvatorecorvaglia/blockchain-papers/blob/main/papers/Bitcoin.pdf)
