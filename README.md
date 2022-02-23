@@ -11,6 +11,7 @@
 <br/>
 
 
-## Official
+## List
 
 - [Bitcoin](https://github.com/salvatorecorvaglia/blockchain-papers/blob/main/papers/Bitcoin.pdf)
+- [Ethereum](https://github.com/salvatorecorvaglia/blockchain-papers/blob/main/papers/Ethereum.pdf)
