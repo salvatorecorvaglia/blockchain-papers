@@ -15,3 +15,4 @@
 
 - [Bitcoin](https://github.com/salvatorecorvaglia/blockchain-papers/blob/main/papers/Bitcoin.pdf)
 - [Ethereum](https://github.com/salvatorecorvaglia/blockchain-papers/blob/main/papers/Ethereum.pdf)
+- [Peercoin](https://github.com/salvatorecorvaglia/blockchain-papers/blob/main/papers/Peercoin.pdf)
